@@ -15,3 +15,4 @@
 ##  or do this if running on a local EVM:
 ### migrate
 ## side note: in the migration file, make sure to use the name of the actual contract, NOT the name of the file that holds the contract
+# 3. ERC165 tutorial read: https://medium.com/@chiqing/ethereum-standard-erc165-explained-63b54ca0d273
