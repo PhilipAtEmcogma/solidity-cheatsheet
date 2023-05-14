@@ -16,3 +16,8 @@
 ### migrate
 ## side note: in the migration file, make sure to use the name of the actual contract, NOT the name of the file that holds the contract
 # 3. ERC165 tutorial read: https://medium.com/@chiqing/ethereum-standard-erc165-explained-63b54ca0d273
+
+## RPC-URL
+### To connect to and retrieve data from a blockchain, you'll need to connect to a node on the blockchain network. A node is a participant in the network that stores and serves the latest blockchain state. Users who wish to download blockchain data can either run a node themselves, or connect to a publicly-provided node via the node's RPC endpoint. An RPC (remote procedure call) endpoint is like a node's address: it's a URL which requests for blockchain data can be sent to.
+### Alchemy RPC-URL doc: https://docs.alchemy.com/docs/how-to-add-alchemy-rpc-endpoints-to-metamask
+### Alchemy website: https://www.alchemy.com/
